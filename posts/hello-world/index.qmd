@@ -2,4 +2,4 @@
 title: "Hello World!"
 ---
 
-This is a new blog posty!
+This is a new blog post!
