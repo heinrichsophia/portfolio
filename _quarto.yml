@@ -4,13 +4,20 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://heinrichsophia.github.io/portfolio # Update this URL
   title: "portfolio"
   navbar:
     right:
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Resume"
+        href: resume.pdf
+   #   - text: "Cover Letter"
+     #   href: cover_letter.pdf
       - icon: github
-        href: https://github.com/
+        href: https://github.com/heinrichsophia/portfolio
       - icon: twitter
         href: https://twitter.com
 format:
@@ -19,6 +26,3 @@ format:
       - cosmo
       - brand
     css: styles.css
-
-
-
