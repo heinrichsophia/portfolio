@@ -10,7 +10,7 @@ format:
       - heightrounded
     fontfamily: libertine
     colorlinks: true
-    fontsize: '16'
+    fontsize: 30pt
     include-in-header: 
       text: |
         \usepackage{multicol}
