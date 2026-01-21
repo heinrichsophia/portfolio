@@ -26,7 +26,7 @@ format:
 \begin{huge}\begin{center}{\bf Sophia Heinrich}\end{center}\end{huge}
 \vspace{-0.75cm}
 \begin{center}(402) 617-2141 ∙ heinrichs6739@gmail.com ∙
-\href{https://www.linkedin.com/in/sophia-heinrich-unl/}{LinkedIn}
+\href{linkedin.com/in/sophia-heinrich-unl/}{linkedin.com/in/sophia-heinrich-unl/}
 \end{center}
 
 \vspace{-0.25cm}

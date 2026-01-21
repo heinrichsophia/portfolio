@@ -14,8 +14,8 @@ website:
         href: about.qmd
       - text: "Resume"
         href: resume.pdf
-   #   - text: "Cover Letter"
-     #   href: cover_letter.pdf
+      - text: "Cover Letter"
+        href: cover_letter.pdf
       - icon: github
         href: https://github.com/heinrichsophia/portfolio
       - icon: twitter
