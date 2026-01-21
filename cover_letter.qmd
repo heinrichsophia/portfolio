@@ -31,7 +31,7 @@ Dear Garmin,
 In the internships I worked over the past summers, I found the ones that kept me the most intellectually
 stimulated and challenged were the ones I loved most. While I have always heard great reviews from past employees about
 Garmin's culture of honesty, integrity, and respect, it wasn't until I spoke to your representatives at the
-Raikes School Career Fair, I could see that the position of Software Engineer would be a position
+Raikes School Career Fair, I could see that the position of Software Engineer - Full Stack (Java/Angular) would be a position
 that could satisfy my need for challenging work in a fast-paced environment where I can grow as an engineer and be
 supported by my peers and mentors. Based on my love for problem-solving and learning, and my experience
 working and communicating on software teams, I believe I would be an asset to Garmin and would thrive in an agile environment, and show passion for the work I do with my team.
